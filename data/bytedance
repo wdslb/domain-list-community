@@ -1,9 +1,10 @@
+include:bytedance-ads
+
 include:bcy
 include:fqnovel
 include:juejin
 include:lark
 include:tiktok
-include:bytedance-ads
 include:volcengine
 
 
@@ -73,7 +74,6 @@ byteactivity14.com
 byteactivity15.com
 byteactivity16.com
 byteactivity.com
-byteadverts.com
 byteapi.com
 bytecdn.cn
 bytecdn.com
@@ -119,6 +119,7 @@ bytegqpo.net
 bytegrowth.com
 byte-gslb.com
 bytegslb.com
+byteglb.com @!cn
 bytehwm.com
 byteics.com
 byteics.net
@@ -135,6 +136,7 @@ bytenewst.com
 byteorg.com
 byteorge.com
 byteoversea.com @!cn
+byteoversea.net @!cn
 byteq5k.com
 byteq8u.net
 bytescm.com
@@ -326,6 +328,7 @@ zjcdn.com
 zjfcdn.com
 zjgslb.com
 
+full:bytedance.map.fastly.net @!cn
 
 # 今日头条
 toutiao.com
@@ -401,7 +404,18 @@ gogokid.com.cn
 gogokid.com
 
 # 皮皮虾
+hapierxia.com
+hapipixia.com
+hapiyixia.com
+kuailepipixia.com
 pipix.com
+pipixiaha.com
+piyipiba.com
+ppxhhh.com
+ppximg.com
+ppxstatic.com
+ppxvod.com
+xiaoxiaapi.com
 
 # faceu
 faceu.com
