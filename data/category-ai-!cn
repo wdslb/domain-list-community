@@ -1,5 +1,8 @@
 include:anthropic
+include:bytedance-ai-!cn
+include:cerebras
 include:cursor
+include:elevenlabs
 include:google-deepmind
 include:groq
 include:huggingface
@@ -12,12 +15,18 @@ include:xai
 coderabbit.ai
 coderabbit.gallery.vsassets.io
 
+# Cohere
+cohere.ai
+cohere.com
+
 # Jasper
 clipdrop.co
 jasper.ai
 
 chutes.ai
 copilot.microsoft.com
+devin.ai
+diabrowser.com
 dify.ai
 gateway.ai.cloudflare.com
 meta.ai
